@@ -1,0 +1,11 @@
+OpenAIModel:
+  model: "gpt-3.5-turbo"
+  api_key: "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"
+
+GLMModel:
+  model_url: "your_chatglm_model_url"
+  timeout: 300
+
+common:
+  book: "tests/test.pdf"
+  file_format: "markdown"
